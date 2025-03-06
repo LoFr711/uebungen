@@ -26,11 +26,13 @@ Erstellt mithilfe des Python Moduls "Turtle" das Sierpinsky Dreieck in eingegebe
 Das Programm erstellt ein jpg des Mandelbrotes. Aktuell müssen Auflösung und Rekursionstiefe händisch im Code geändert werden. Eine Erweiterung des Programms könnte mehrere Mandelbrote in verschiedener Auflösung erstellen oder einen Zoom in einen  bestimmten Bildausschnitt implementieren
 
 ## Priority_Queue
-Eine Prioritätswarteschlange ist eine Datenstruktur, die die Operationen die sie kann effizienter als der binäre Suchbaum durchführt. Sie wird zB für Djikstras  schnellsten Wege Algorithmus verwendet. Das Programm Priority_Queue erstellt eine Datenklasse Priority_Queue mit den gängigen Operationen. Die Datenklasse kann dann zB zur Wegesuche für einen Datensatz verwendet werden
+Eine Prioritätswarteschlange ist eine Datenstruktur, die die Operationen die sie kann effizienter als der binäre Suchbaum durchführt. Sie wird zB für Djikstras  schnellsten Wege Algorithmus verwendet. 
+Das Programm Priority_Queue erstellt eine Datenklasse Priority_Queue mit den gängigen Operationen. Die Datenklasse kann dann zB zur Wegesuche für einen Datensatz verwendet werden
 
 ## Star Maze
 Erstellt in Zusammenarbeit mit Duong Nguyen und Alex Keller
-Ein Star Maze stellt in dieser Aufgabe ein Labyrinth dar, für dass mit dem A Suchalgorithmus ein Weg zu einem Ziel gefunden werden soll. Ein Star Maze besteht aus einem Start 'S', mindestens einem Ziel 'F' und Wänden die mithilfe von '#' dargestellt werden.
+Ein Star Maze stellt in dieser Aufgabe ein Labyrinth dar, für dass mit dem A Suchalgorithmus ein Weg zu einem Ziel gefunden werden soll. 
+Ein Star Maze besteht aus einem Start 'S', mindestens einem Ziel 'F' und Wänden die mithilfe von '#' dargestellt werden.
 Die heuristische Funktion berechnet die Manhatten Distanz zwischen einem Knoten und dem Ziel.
 
 ## Tuerme von Hanoi
