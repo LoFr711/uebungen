@@ -1,3 +1,4 @@
+# Erstellt von Alex Keller
 class Vertex:
 
     def __init__(self, value, distance : float, depth : int):
